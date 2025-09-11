@@ -1,0 +1,6 @@
+print("today we are going to have a mad lib!")
+print ("")
+print("")
+sport = input ("pick a sport")
+team = input ("pick a team name")
+print ("~~~*~~~*~~~*~~~*~~~*~~~*~~~*~~~*~~~*~~~*~~~*")
