@@ -55,7 +55,7 @@ if genius > dumb:
     print ("you are a genius!")
 elif dumb > genius:
     print ("you are dumb!")
-if genius > dumb and genius > a4:
+if genius > dumb and genius > 4:
     print ("you are the smartest! ")
 elif dumb > genius and dumb > 4:
     print ("you are really dumb!")
