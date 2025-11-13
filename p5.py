@@ -112,14 +112,9 @@ while True:
     distance = get_distance(s1,s2)
     print (f"{distance}")
 
-    if distance < 25:
+    if distance < 25:       
         print ("game over")
+        break
     
 
     window.update()
-
-	# if :
-	# 	break
-	
-
-print("Game Over")
