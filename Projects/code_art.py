@@ -11,7 +11,7 @@ t.pendown()
 
 for i in range (500):
     t.forward(i)
-    t.left(45+i)
+    t.left(15+i)
 
 
 
